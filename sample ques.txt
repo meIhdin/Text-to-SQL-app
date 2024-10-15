@@ -1,0 +1,58 @@
+## sample questions to ask in streamlit app
+# query to run app : open terminal -> streamlit run app.py
+
+questions:
+
+1. Basic SELECT Query
+"Show all students in the Data Science class."
+
+2. Counting Records
+"How many students are in each class?"
+
+3. Conditional Filtering
+"Show all students who scored more than 85 marks."
+
+4. Sorting Query
+"Show students from the Web Development class, ordered by marks in descending order."
+
+5. Multiple Conditions
+"Show students from the DEVOPS class who scored more than 60 marks."
+
+6. Aggregation with HAVING
+"Show classes where the average marks are more than 75."
+
+7. Using Subqueries
+"Show students who scored above the average marks."
+
+8. Counting with Conditions
+"How many students are in Section A?"
+
+9. Top N Results
+"Show the top 3 students with the highest marks."
+
+10. Group By with Filtering
+"How many students scored above 80 marks in each class?"
+
+11. Distinct Values
+"Show all distinct classes available in the database."
+
+12. Complex Filtering and Sorting
+"Show students who are in Data Science or Machine Learning classes, ordered by their marks."
+
+13. Sum of Marks
+"What is the total marks of all students in the Data Science class?"
+
+14. Average Marks by Section
+"What is the average marks for each section in the Data Science class?"
+
+15. Find Maximum and Minimum Marks
+"Who scored the highest and lowest marks?"
+
+16. Count Students by Section
+"How many students are in Section A of the Data Science class and have marks above 80?"
+
+17. Finding Duplicate Students
+"Show classes where there are duplicate entries for students with the same name."
+
+18. Rank Students by Marks
+"Rank students based on their marks from highest to lowest."
