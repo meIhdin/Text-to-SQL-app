@@ -1,6 +1,7 @@
 # Byte-compiled files
 __pycache__/
 *.py[cod]
+*.pyc
 
 # Virtual environment
 venv/
@@ -13,8 +14,10 @@ env/
 *.log
 
 # Environment variables file
-.env
+.env/
 
 # Data files
 data/
 *.csv
+
+*.db
